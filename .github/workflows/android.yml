@@ -43,7 +43,7 @@ jobs:
             --cross-file "/tmp/generated-cross-file" \
             --buildtype debug \
             -Dplatforms=android \
-            -Dplatform-sdk-version=26 \
+            -Dplatform-sdk-version=30 \
             -Dandroid-stub=true \
             -Dllvm=disabled \
             -Dxlib-lease=disabled \
